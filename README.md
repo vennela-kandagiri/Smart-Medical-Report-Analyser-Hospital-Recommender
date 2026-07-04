@@ -36,16 +36,27 @@ This project aims to reduce the complexity of medical reports and assist patient
 ## ⚙️ Workflow
 
 Medical Report Upload
+
 ↓
+
 Webhook Trigger
+
 ↓
+
 Google Gemini Report Analysis
+
 ↓
+
 Medical Summary Generation
+
 ↓
+
 Hospital Recommendation
+
 ↓
+
 Email Notification to Patient
+
 
 ---
 
